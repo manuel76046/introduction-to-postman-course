@@ -1,4 +1,4 @@
- # 👋 Introduction to Postman course
+ # 👋 Introduction to Postman course - hi there
 
 Hello and welcome to this free course on writing API tests with Postman. 
 
